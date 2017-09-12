@@ -2,15 +2,14 @@
 
 .Title {
 	background: #A9A9A9;
-	color: #ddd;
-	font-family: 'Pacifico', cursive;
+	color: green;
 	text-align: center;
 	width: 1200px;
     padding: 30px 40px;
 }
 
 .Title > h1 {
-	color: #FF0000;
+	color: black;
 
 }
 .Title > div {

@@ -23172,7 +23172,7 @@ exports = module.exports = __webpack_require__(84)(undefined);
 exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Pacifico);", ""]);
 
 // module
-exports.push([module.i, ".DcXSjcjjaX9_NvqU207c- {\r\n\tbackground: #A9A9A9;\r\n\tcolor: #ddd;\r\n\tfont-family: 'Pacifico', cursive;\r\n\ttext-align: center;\r\n\twidth: 1200px;\r\n    padding: 30px 40px;\r\n}\r\n\r\n.DcXSjcjjaX9_NvqU207c- > h1 {\r\n\tcolor: #FF0000;\r\n\r\n}\r\n.DcXSjcjjaX9_NvqU207c- > div {\r\n\twidth: 100px;\r\n\tbackground:#000000;\r\n\tmargin: 0 auto;\r\n\tfont-size: 40px;\r\n\tcolor: #FFFFFF;\r\n\tpadding: 5px;\r\n}", ""]);
+exports.push([module.i, ".DcXSjcjjaX9_NvqU207c- {\r\n\tbackground: #A9A9A9;\r\n\tcolor: green;\r\n\ttext-align: center;\r\n\twidth: 1200px;\r\n    padding: 30px 40px;\r\n}\r\n\r\n.DcXSjcjjaX9_NvqU207c- > h1 {\r\n\tcolor: black;\r\n\r\n}\r\n.DcXSjcjjaX9_NvqU207c- > div {\r\n\twidth: 100px;\r\n\tbackground:#000000;\r\n\tmargin: 0 auto;\r\n\tfont-size: 40px;\r\n\tcolor: #FFFFFF;\r\n\tpadding: 5px;\r\n}", ""]);
 
 // exports
 exports.locals = {
